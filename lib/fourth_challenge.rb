@@ -1,4 +1,4 @@
-require "pry"
+
 epic_tragedy = {}
 
 def fourth_challenge
@@ -26,6 +26,5 @@ def fourth_challenge
 end
 
 epic_tragedy = fourth_challenge 
-binding.pry
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 epic_tragedy[:montague][:hero][:status] = "dead"
