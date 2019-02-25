@@ -1,5 +1,5 @@
 
-epic_tragedy = {}
+
 
 def fourth_challenge
   epic_tragedy = {
