@@ -1,5 +1,5 @@
 epic_tragedy = {}
-require "pry"
+
 def fourth_challenge
   epic_tragedy = {
    :montague => {
