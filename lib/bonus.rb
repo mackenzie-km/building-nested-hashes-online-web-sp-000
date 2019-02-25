@@ -1,3 +1,5 @@
+epic_tragedy = {}
+
 def bonus
   epic_tragedy = {
    :montague => {
