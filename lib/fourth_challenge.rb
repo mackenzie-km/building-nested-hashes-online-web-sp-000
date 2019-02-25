@@ -26,6 +26,6 @@ def fourth_challenge
 end
 
 fourth_challenge 
+binding.pry
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 epic_tragedy[:montague][:hero][:status] = "dead"
-binding.pry
