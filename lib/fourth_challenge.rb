@@ -1,5 +1,5 @@
 epic_tragedy = {}
-
+require "pry"
 def fourth_challenge
   epic_tragedy = {
    :montague => {
@@ -24,7 +24,7 @@ def fourth_challenge
   
 
 end
-require "pry"
+
 fourth_challenge 
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 epic_tragedy[:montague][:hero][:status] = "dead"
